@@ -13,10 +13,18 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | I am a web programming student. I use my computer to practice programming, but I also use it to watch videos. I want to learn more about web programming because I want to create my own websites.|
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
+| Home |Systems Engineering Student
+
+I am a Systems Engineering student passionate about technology, programming, and web development. |
+| About | I am a Systems Engineering student. I enjoy learning about programming and web development. I use my computer to practice coding and create new projects. My goal is to improve my skills and become a good software developer.|
+| Skills | HTML – Web structure
+CSS – Web design
+JavaScript – Web programming
+MySQL – Databases
+GitHub – Project management
+MIT App Inventor – App development |
+| Resume | Systems Engineering
+Institución Universitaria de El Espinal – UNIESPINAL |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
 
